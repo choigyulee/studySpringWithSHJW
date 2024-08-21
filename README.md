@@ -1,2 +1,4 @@
-# studyWithSHJW
+# studySpringWithSHJW
 수혁재우와 함께 하는 스프링 캠프
+
+캠프 1일차: 스프링 기본 설정 및 내용 숙지, 로그인 및 회원가입 일부
